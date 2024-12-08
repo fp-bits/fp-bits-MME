@@ -17,3 +17,17 @@ Partimos del PDF oficial (del que disponen en el Aula Virtual) - a complementar 
 ## TODO MME_Tema4_El_Microprocesador-y-el-Kernel-Linux-III
 
 > Págs. 80 a 122 del programa en PDF.
+
+
+
+# Metodología 
+
+breves sesiones teóricas + mucha práctica
+
+## Organización - Aprendizaje Grupal
+
+Preparación por Grupos de 
+
+- breves Expos. sesiones teóricas + mucha práctica
+
+
