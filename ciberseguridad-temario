@@ -1,0 +1,138 @@
+Experto en Ciberseguridad | cftic
+5-7 minutos
+Objetivo General:
+
+Al acabar el curso el alumno estará capacitado para:
+
+    Aplicar medidas de seguridad con el fin de proteger loa activos y procesos de la organización.
+    Diseñar una arquitectura de seguridad perimetral que garantice la seguridad y el control de acceso a los sistemas de Información, así como garantizar la confidencialidad y el control de acceso a los equipos y dispositivos móviles y portátiles.
+    Aprender técnicas básicas de hacking y las herramientas utilizadas a día de hoy por los atacantes, y conocer la manera correcta de actuar ante un ataque.
+
+Dirigido a:
+
+Trabajadores/as preferentemente desempleados, residentes en la Comunidad de Madrid.
+
+Se requiere como mínimo:
+
+    Técnico Superior en informática
+    Conocimientos de seguridad de sistemas informáticos y networking
+    Dominio del inglés a nivel de lectura
+
+Se realizarán pruebas de nivel para el acceso al curso.
+Duración del curso: 120 horas
+Relación de módulos formativos:
+
+    Módulo 1. GESTIÓN DE LA SEGURIDAD DE LA INFORMACIÓN
+
+        Introducción a la seguridad de la información
+
+        Gestión de la seguridad de la información
+            Principios básicos
+            Factores críticos de éxito
+        Normativas y estándares de seguridad
+            Organizaciones: ISO, ISACA, NIST, IEC
+            Estándares: COBIT, ISO/IEC 27000, ITIL
+            Evolución de las normas de seguridad
+
+        ISO 27002: Código de buenas prácticas para la gestión de la seguridad de la información
+            Política de seguridad de la información
+            Organización de la seguridad de la información
+            Gestión de activos
+            Seguridad de los RRHH
+            Conformidad
+            Control de acceso
+            Seguridad física y ambiental
+            Adquisición, desarrollo y mantenimiento de los sistemas de información
+            Gestión de las comunicaciones y operaciones
+            Gestión de incidencias en la seguridad de la Información
+            Gestión de la continuidad del negocio
+
+        COBIT
+            COBIT y el gobierno TI
+            Estructura de COBIT: Dominios y procesos
+            Marco de trabajo de COBIT
+        Derecho TIC
+            Protección de datos de carácter personal: LOPD
+            Retención de datos: LRD
+            SSI y comercio electrónico: LSSI
+            Propiedad intelectual: LPI
+            Firma electrónica: LFE
+            Esquema Nacional de Seguridad (ENS)
+
+        Cuerpo normativo
+            Estructura del cuerpo normativo
+            Publicación y difusión del cuerpo normativo: Políticas, normas y procedimientos
+
+    Módulo 2. ADMINISTRADOR SEGURIDAD PERIMETRAL
+
+        Seguridad de la información
+            Principios y objetivos de la seguridad de los sistemas de información: Autenticidad, Confidencialidad, Integridad de la Información.
+            Aplicación de la criptografía a la seguridad de la información.
+            Técnicas para el cifrado de información confidencial.
+            Certificados Digitales, Gestión de PKI (Public Key Infraestructure).
+            Aplicación de la Firma digital.
+            Proceso e implicaciones de la Facturación electrónica.
+
+        Autenticación y Gestión de identidades
+            Políticas y procedimientos de seguridad para los procesos de autenticación.
+            Autenticación de dos factores, utilización de tarjetas criptográficas (smart-card logon).
+            Sistemas de Single Sign On (SSO).
+            Autenticación remota de usuarios, utilización de servidores de autenticación RADIUS.
+            Acceso remoto a la red interna mediante conexiones VPN.
+
+        Seguridad perimetral
+            Diseño y definición de modelos para el establecimiento del perímetro de seguridad.
+            Configuración de políticas y reglas de filtrado de cortafuegos.
+            Configuración segura de servidores y servicios sobre la DMZ.
+            Comunicaciones seguras a servicios internos a través de conexiones IPSEC.
+            Establecimiento de túneles “cifrados” para conexión entre delegaciones. (Túneles IPSEC).
+            Establecimiento de túneles VPN mediante el protocolo SSLAcceso seguro mediante SSL a servidores Web y servidores de Correo.
+
+        Seguridad en redes inalámbricas
+            Configuración de dispositivos inalámbricos : Punto de acceso. Tarjetas inalámbricas.
+            Autenticación WPA2 basada en Radius: Elementos necesarios. Servidor RADIUS. Directorio Activo. Certificados. Configuración de la autenticación PEAP.
+
+        Seguridad en portátiles y sistemas móviles
+            Seguridad física/lógica para el control de acceso: Seguridad de inicio en sistemas Windows y Linux. Seguridad de contraseñas. Sistemas de autenticación biométricos.
+            Cifrado de la información confidencial: Cifrado simétrico mediante contraseña única. Cifrado asimétrico mediante llave publica/privada (GPG). Herramientas para repositorio de contraseñas.
+            Control de dispositivos removibles, memorias, discos USB,...: Riesgos en el uso de dispositivos de almacenamiento externos. Control de acceso y utilización de dispositivos externos (DEVICELOOK)
+            Medidas de seguridad en smartphones y tablets: Seguridad dispositivo. Cifrado tarjetas de almacenamiento. Seguridad aplicaciones instaladas.
+            Demostraciones prácticas
+
+    Módulo 3. TÉCNICAS DE INTRUSIÓN - INFORMÁTICA FORENSE
+
+        Técnicas de Hacking.
+            Busqueda de Vulnerabilidades.
+            Analisis de vulnerabilidades
+            Explotacion de vulnerabilidades.
+            Herramientas de seguridad.
+
+        Herramientas usadas por los atacantes.
+            Scanners
+            Exploits.
+            Rootkits.
+
+        Análisis forense.
+            Como actuar ante un ataque.
+            Notas legales.
+            Análisis de huellas
+            Localización de información en Windows
+            Localización de información en UNIX
+            Análisis de logs.
+
+        Herramientas para los administradores.
+            Herramientas de filtrado
+            Alarmas en tiempo real
+            Honeypots.
+
+Examen de Certificación
+
+Este curso te da la formación necesaria para realizar las pruebas siguientes:
+
+    CCS-G emitida por la Agencia de Certificaciones Ciberseguridad.
+    CCSP-AP emitida por la Agencia de Certificaciones Ciberseguridad.
+    CISA
+    CISSP
+    CISM
+    CHFI
+    GCFA
