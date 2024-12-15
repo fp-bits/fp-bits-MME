@@ -152,4 +152,3 @@ págs. 80 a 122 del programa en PDF
 
 ---
 
-Este es el contenido literal solicitado con formato Markdown. Si necesitas más detalles o adaptaciones, no dudes en indicarlo.
