@@ -4,6 +4,8 @@
 
 Un microprocesador es un circuito integrado formado por millones de componentes electrónicos como transistores, resistencias, diodos, y condensadores. Su función principal es procesar instrucciones, siendo el corazón de cualquier sistema computacional.
 
+> VIDEO : [Como funciona la CPU y la Computadora ?](https://www.youtube.com/watch?app=desktop&v=LVAZ2SPf1FA)
+
 ### Secciones del Microprocesador
 
 1. **Unidad Aritmético-Lógica (ALU):** Realiza cálculos y toma decisiones lógicas.
